@@ -1,2 +1,1 @@
-# Sample
-MyfirstgGit
+# Numpy,Pandas;Matplotlib using jupyter notebook
